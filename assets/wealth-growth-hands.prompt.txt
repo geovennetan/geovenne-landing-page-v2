@@ -1,0 +1,11 @@
+Use case: photorealistic-natural
+Asset type: transparent section illustration for a premium financial-advisor landing page service card
+Input images: Image 1 is a composition reference only; create a new original image, do not reproduce its watermark, background, or exact hands
+Primary request: two natural adult hands gently cupping a generous mound of generic gold coins, with one healthy young green sapling growing from the center of the coins
+Scene/backdrop: genuinely transparent background, clean isolated cutout
+Subject: elegant realistic hands, warm metallic coins without currency symbols or denominations, one slim brown stem with fresh vivid green leaves
+Style/medium: refined photorealistic editorial product photography, premium but approachable, realistic skin and leaf texture
+Composition/framing: compact vertical cluster suitable for the lower half of a tall service card; hands enter subtly from the lower left and form a stable cradle; coin mound centered; sapling rises upward; complete silhouette with comfortable margins; no cropped fingers or leaves
+Lighting/mood: soft warm studio key light with subtle golden highlights and clean natural shadows; hopeful, trustworthy, long-term growth
+Color palette: warm gold, natural green, neutral skin tones; designed to read clearly on a deep burgundy background
+Constraints: actual transparent alpha; no background scene; no text; no logos; no watermark; no stock marks; no money symbols; no currency denominations; no extra objects; no floating coins; no excessive sparkle; no artificial plastic skin; no illustration or 3D-render look

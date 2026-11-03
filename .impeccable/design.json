@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-03T00:00:00+08:00",
+  "title": "Design System: Geovenne Tan",
+  "extensions": {
+    "colorMeta": {
+      "burgundy": {
+        "role": "primary",
+        "displayName": "Consultation Burgundy",
+        "tonalRamp": ["oklch(15% 0.080 7.0)", "oklch(27% 0.080 7.0)", "oklch(39% 0.080 7.0)", "oklch(51% 0.080 7.0)", "oklch(63% 0.080 7.0)", "oklch(75% 0.080 7.0)", "oklch(87% 0.080 7.0)", "oklch(95% 0.080 7.0)"]
+      },
+      "burgundy-deep": {
+        "role": "primary",
+        "displayName": "Deep Folder Burgundy",
+        "tonalRamp": ["oklch(15% 0.074 4.4)", "oklch(27% 0.074 4.4)", "oklch(39% 0.074 4.4)", "oklch(51% 0.074 4.4)", "oklch(63% 0.074 4.4)", "oklch(75% 0.074 4.4)", "oklch(87% 0.074 4.4)", "oklch(95% 0.074 4.4)"]
+      },
+      "burgundy-soft": {
+        "role": "primary",
+        "displayName": "Blush Paper",
+        "tonalRamp": ["oklch(15% 0.014 355.0)", "oklch(27% 0.014 355.0)", "oklch(39% 0.014 355.0)", "oklch(51% 0.014 355.0)", "oklch(63% 0.014 355.0)", "oklch(75% 0.014 355.0)", "oklch(87% 0.014 355.0)", "oklch(95% 0.014 355.0)"]
+      },
+      "ivory": {
+        "role": "neutral",
+        "displayName": "Soft Ivory",
+        "tonalRamp": ["oklch(15% 0.009 78.3)", "oklch(27% 0.009 78.3)", "oklch(39% 0.009 78.3)", "oklch(51% 0.009 78.3)", "oklch(63% 0.009 78.3)", "oklch(75% 0.009 78.3)", "oklch(87% 0.009 78.3)", "oklch(95% 0.009 78.3)"]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Warm Paper",
+        "tonalRamp": ["oklch(15% 0.005 78.3)", "oklch(27% 0.005 78.3)", "oklch(39% 0.005 78.3)", "oklch(51% 0.005 78.3)", "oklch(63% 0.005 78.3)", "oklch(75% 0.005 78.3)", "oklch(87% 0.005 78.3)", "oklch(95% 0.005 78.3)"]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "Clean White",
+        "tonalRamp": ["oklch(15% 0 0)", "oklch(27% 0 0)", "oklch(39% 0 0)", "oklch(51% 0 0)", "oklch(63% 0 0)", "oklch(75% 0 0)", "oklch(87% 0 0)", "oklch(95% 0 0)"]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Primary Ink",
+        "tonalRamp": ["oklch(15% 0.011 346.2)", "oklch(27% 0.011 346.2)", "oklch(39% 0.011 346.2)", "oklch(51% 0.011 346.2)", "oklch(63% 0.011 346.2)", "oklch(75% 0.011 346.2)", "oklch(87% 0.011 346.2)", "oklch(95% 0.011 346.2)"]
+      },
+      "ink-soft": {
+        "role": "neutral",
+        "displayName": "Soft Ink",
+        "tonalRamp": ["oklch(15% 0.013 348.9)", "oklch(27% 0.013 348.9)", "oklch(39% 0.013 348.9)", "oklch(51% 0.013 348.9)", "oklch(63% 0.013 348.9)", "oklch(75% 0.013 348.9)", "oklch(87% 0.013 348.9)", "oklch(95% 0.013 348.9)"]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Warm Rule",
+        "tonalRamp": ["oklch(15% 0.012 357.0)", "oklch(27% 0.012 357.0)", "oklch(39% 0.012 357.0)", "oklch(51% 0.012 357.0)", "oklch(63% 0.012 357.0)", "oklch(75% 0.012 357.0)", "oklch(87% 0.012 357.0)", "oklch(95% 0.012 357.0)"]
+      },
+      "line-on-dark": {
+        "role": "neutral",
+        "displayName": "Rule on Dark",
+        "tonalRamp": ["rgba(255, 255, 255, 0.06)", "rgba(255, 255, 255, 0.10)", "rgba(255, 255, 255, 0.14)", "rgba(255, 255, 255, 0.22)", "rgba(255, 255, 255, 0.32)", "rgba(255, 255, 255, 0.44)", "rgba(255, 255, 255, 0.60)", "rgba(255, 255, 255, 0.78)"]
+      },
+      "focus-ring": {
+        "role": "primary",
+        "displayName": "Visible Focus Rose",
+        "tonalRamp": ["oklch(15% 0.080 3.6)", "oklch(27% 0.080 3.6)", "oklch(39% 0.080 3.6)", "oklch(51% 0.080 3.6)", "oklch(63% 0.080 3.6)", "oklch(75% 0.080 3.6)", "oklch(87% 0.080 3.6)", "oklch(95% 0.080 3.6)"]
+      }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Editorial Display", "purpose": "Hero promise only, with a narrow-screen compact override." },
+      "headline": { "displayName": "Section Headline", "purpose": "Major section thesis and closing message." },
+      "title": { "displayName": "Editorial Title", "purpose": "Service-card and compact content titles." },
+      "body": { "displayName": "Readable Body", "purpose": "Chinese explanations, FAQ answers, and risk context." },
+      "label": { "displayName": "Supporting Label", "purpose": "Captions and low-emphasis identifiers." },
+      "action": { "displayName": "Clear Action", "purpose": "Buttons and conversion links." }
+    },
+    "shadows": [
+      { "name": "framed-portrait", "value": "0 24px 56px rgba(63, 16, 31, 0.14)", "purpose": "Diffuse depth for the real portrait and its offset folder plane." },
+      { "name": "paper-card", "value": "0 14px 32px rgba(54, 30, 37, 0.09)", "purpose": "Low lift for service and process sheets." },
+      { "name": "action-rest", "value": "0 10px 24px rgba(112, 27, 53, 0.22)", "purpose": "Resting primary-action separation." },
+      { "name": "action-hover", "value": "0 14px 30px rgba(63, 16, 31, 0.26)", "purpose": "Deeper primary-action response on hover." },
+      { "name": "featured-surface", "value": "0 18px 36px rgba(112, 27, 53, 0.20)", "purpose": "Emphasis for the featured burgundy service card." },
+      { "name": "scrolled-header", "value": "0 8px 28px rgba(63, 16, 31, 0.08)", "purpose": "Minimal separation only after the sticky header has scrolled." }
+    ],
+    "motion": [
+      { "name": "state-fast", "value": "180ms ease-out", "purpose": "Buttons, arrows, navigation, focus entry, and header state." },
+      { "name": "faq-reveal", "value": "220ms ease-out", "purpose": "FAQ grid-row expansion and collapse." },
+      { "name": "button-lift", "value": "translateY(-2px)", "purpose": "Quiet hover confirmation for buttons." },
+      { "name": "arrow-nudge", "value": "translateX(4px)", "purpose": "Directional reinforcement inside action links." },
+      { "name": "reduced-motion-collapse", "value": "0.01ms; animation-iteration-count: 1", "purpose": "Collapses non-essential animation when reduced motion is requested." }
+    ],
+    "breakpoints": [
+      { "name": "narrow-protection", "value": "419px max-width" },
+      { "name": "wide-mobile", "value": "640px" },
+      { "name": "desktop-layout", "value": "860px" },
+      { "name": "wide-frame", "value": "1180px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The main WhatsApp conversion action on light surfaces.",
+      "html": "<a class=\"ds-btn-primary\" href=\"#\">WhatsApp 免费咨询 <svg viewBox=\"0 0 17 10\" aria-hidden=\"true\"><path d=\"M0 5h15M11 1l4 4-4 4\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a>",
+      "css": ".ds-btn-primary { display:inline-flex; align-items:center; justify-content:center; gap:.85rem; min-height:52px; padding:.8rem 1.25rem; color:var(--white, #fff); background:var(--burgundy, #701b35); font-family:var(--sans, 'Noto Sans SC Local', 'Microsoft YaHei', sans-serif); font-size:1rem; font-weight:700; line-height:1.2; text-decoration:none; border:1px solid transparent; border-radius:12px; box-shadow:0 10px 24px rgba(112,27,53,.22); transition:color 180ms ease-out, background-color 180ms ease-out, transform 180ms ease-out, box-shadow 180ms ease-out; } .ds-btn-primary svg { width:17px; height:10px; transition:transform 180ms ease-out; } .ds-btn-primary:hover { background:var(--burgundy-deep, #3f101f); box-shadow:0 14px 30px rgba(63,16,31,.26); transform:translateY(-2px); } .ds-btn-primary:hover svg { transform:translateX(4px); } .ds-btn-primary:focus-visible { outline:3px solid var(--focus-ring, #c54b72); outline-offset:4px; }"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "A quieter route to supporting information on light surfaces.",
+      "html": "<a class=\"ds-btn-secondary\" href=\"#\">了解我的服务</a>",
+      "css": ".ds-btn-secondary { display:inline-flex; align-items:center; justify-content:center; min-height:52px; padding:.8rem 1.25rem; color:var(--burgundy, #701b35); background:transparent; font-family:var(--sans, 'Noto Sans SC Local', 'Microsoft YaHei', sans-serif); font-size:1rem; font-weight:700; line-height:1.2; text-decoration:none; border:1px solid var(--burgundy, #701b35); border-radius:12px; transition:color 180ms ease-out, background-color 180ms ease-out, transform 180ms ease-out; } .ds-btn-secondary:hover { color:var(--white, #fff); background:var(--burgundy, #701b35); transform:translateY(-2px); } .ds-btn-secondary:focus-visible { outline:3px solid var(--focus-ring, #c54b72); outline-offset:4px; }"
+    },
+    {
+      "name": "Light Button",
+      "kind": "button",
+      "refersTo": "button-light",
+      "description": "The inverse conversion action used inside burgundy closing fields.",
+      "html": "<a class=\"ds-btn-light\" href=\"#\">WhatsApp 免费咨询 <svg viewBox=\"0 0 17 10\" aria-hidden=\"true\"><path d=\"M0 5h15M11 1l4 4-4 4\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a>",
+      "css": ".ds-btn-light { display:inline-flex; align-items:center; justify-content:center; gap:.85rem; min-height:52px; padding:.8rem 1.25rem; color:var(--burgundy-deep, #3f101f); background:var(--white, #fff); font-family:var(--sans, 'Noto Sans SC Local', 'Microsoft YaHei', sans-serif); font-size:1rem; font-weight:700; line-height:1.2; text-decoration:none; border:1px solid transparent; border-radius:12px; box-shadow:0 12px 26px rgba(35,8,17,.22); transition:color 180ms ease-out, background-color 180ms ease-out, transform 180ms ease-out; } .ds-btn-light svg { width:17px; height:10px; transition:transform 180ms ease-out; } .ds-btn-light:hover { color:var(--white, #fff); background:var(--burgundy-deep, #3f101f); transform:translateY(-2px); } .ds-btn-light:hover svg { transform:translateX(4px); } .ds-btn-light:focus-visible { outline:3px solid var(--focus-ring, #c54b72); outline-offset:4px; }"
+    },
+    {
+      "name": "Chapter Navigation",
+      "kind": "nav",
+      "description": "Sticky-section navigation with a blush active tab and a burgundy WhatsApp action.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"主要导航\"><a href=\"#\" aria-current=\"true\">服务</a><a href=\"#\">关于我</a><a href=\"#\">咨询流程</a><a href=\"#\">常见问题</a><a class=\"ds-nav-cta\" href=\"#\">WhatsApp 咨询</a></nav>",
+      "css": ".ds-nav { display:flex; align-items:center; gap:.1rem; font-family:var(--sans, 'Noto Sans SC Local', 'Microsoft YaHei', sans-serif); } .ds-nav a { padding:.55rem .8rem; color:var(--ink, #272124); font-size:.86rem; font-weight:500; text-decoration:none; border-radius:8px; } .ds-nav a:not(.ds-nav-cta):hover, .ds-nav a[aria-current='true'] { color:var(--burgundy, #701b35); background:var(--burgundy-soft, #f5e9ed); } .ds-nav .ds-nav-cta { margin-left:.65rem; padding-inline:1rem; color:var(--white, #fff); background:var(--burgundy, #701b35); border-radius:12px; } .ds-nav a:focus-visible { outline:3px solid var(--focus-ring, #c54b72); outline-offset:4px; } @media (max-width:859px) { .ds-nav { align-items:stretch; flex-direction:column; padding:2rem 1rem 3rem; background:var(--paper, #fffdfa); } .ds-nav a { padding:.9rem .8rem; font-size:1.12rem; border-bottom:1px solid var(--line, #dfd5d8); border-radius:0; } .ds-nav .ds-nav-cta { margin:1rem 0 0; text-align:center; border:0; border-radius:12px; } }"
+    },
+    {
+      "name": "Service Card",
+      "kind": "card",
+      "refersTo": "service-card",
+      "description": "A quiet paper sheet for a single planning service.",
+      "html": "<article class=\"ds-service-card\"><h3>退休规划</h3><p>根据退休目标、时间及风险承受能力，讨论适合的储蓄与投资方向。</p></article>",
+      "css": ".ds-service-card { min-height:230px; padding:1.7rem; color:var(--ink, #272124); background:var(--white, #fff); border-radius:14px; box-shadow:0 14px 32px rgba(54,30,37,.09); font-family:var(--sans, 'Noto Sans SC Local', 'Microsoft YaHei', sans-serif); } .ds-service-card h3 { margin:0 0 .85rem; color:var(--burgundy-deep, #3f101f); font-family:var(--serif, 'Noto Serif SC Local', 'Songti SC', serif); font-size:clamp(1.35rem, 4vw, 1.8rem); line-height:1.4; } .ds-service-card p { margin:0; color:var(--ink-soft, #62595d); line-height:1.75; }"
+    },
+    {
+      "name": "Featured Service Card",
+      "kind": "card",
+      "refersTo": "service-card-featured",
+      "description": "The burgundy anchor card that spans the service grid on desktop.",
+      "html": "<article class=\"ds-service-featured\"><div><h3>长期财富累积</h3><p>帮助你了解不同投资方式，逐步建立长期投资习惯。</p></div><span>让时间成为规划的一部分</span></article>",
+      "css": ".ds-service-featured { display:flex; flex-direction:column; justify-content:space-between; min-height:300px; padding:1.7rem; color:var(--white, #fff); background:var(--burgundy, #701b35); border-radius:14px; box-shadow:0 18px 36px rgba(112,27,53,.20); font-family:var(--sans, 'Noto Sans SC Local', 'Microsoft YaHei', sans-serif); } .ds-service-featured h3 { margin:0 0 .85rem; color:var(--white, #fff); font-family:var(--serif, 'Noto Serif SC Local', 'Songti SC', serif); font-size:clamp(1.35rem, 4vw, 1.8rem); line-height:1.4; } .ds-service-featured p { margin:0; color:var(--white, #fff); line-height:1.75; } .ds-service-featured span { margin-top:2.5rem; color:rgba(255,255,255,.7); font-size:.78rem; letter-spacing:.08em; }"
+    },
+    {
+      "name": "Process Step",
+      "kind": "custom",
+      "refersTo": "process-step",
+      "description": "A numbered paper sheet used in the three-step consultation sequence.",
+      "html": "<article class=\"ds-process-step\"><span class=\"ds-step-number\">1</span><div><h3>WhatsApp 联系</h3><p>简单告诉我，你目前最想解决的理财问题。</p></div></article>",
+      "css": ".ds-process-step { display:grid; grid-template-columns:auto 1fr; gap:1.2rem; padding:1.6rem; color:var(--ink, #272124); background:var(--paper, #fffdfa); border-radius:14px; box-shadow:0 14px 32px rgba(54,30,37,.09); font-family:var(--sans, 'Noto Sans SC Local', 'Microsoft YaHei', sans-serif); } .ds-step-number { display:grid; place-items:center; width:44px; height:44px; color:var(--white, #fff); background:var(--burgundy, #701b35); border-radius:50%; font-family:Georgia, serif; font-size:1.25rem; } .ds-process-step h3 { margin:0 0 .85rem; color:var(--burgundy-deep, #3f101f); font-size:1.22rem; line-height:1.4; } .ds-process-step p { margin:0; color:var(--ink-soft, #62595d); line-height:1.75; }"
+    },
+    {
+      "name": "FAQ Accordion Item",
+      "kind": "custom",
+      "refersTo": "faq-trigger",
+      "description": "A ruled, accessible question row with the shipped expanded-state control.",
+      "html": "<article class=\"ds-faq\"><button type=\"button\" aria-expanded=\"true\" aria-controls=\"ds-faq-answer\"><span>没有投资经验，也可以咨询吗？</span><span class=\"ds-faq-icon\" aria-hidden=\"true\"></span></button><div id=\"ds-faq-answer\" role=\"region\"><p>可以。即使你从未投资，也可以先了解基本概念，再考虑是否适合开始。</p></div></article>",
+      "css": ".ds-faq { color:var(--ink, #272124); border-top:1px solid var(--line, #dfd5d8); border-bottom:1px solid var(--line, #dfd5d8); font-family:var(--sans, 'Noto Sans SC Local', 'Microsoft YaHei', sans-serif); } .ds-faq button { display:flex; align-items:center; justify-content:space-between; gap:1.5rem; width:100%; padding:1.4rem 0; color:var(--ink, #272124); background:transparent; font:inherit; font-weight:700; text-align:left; border:0; cursor:pointer; } .ds-faq button:hover { color:var(--burgundy, #701b35); } .ds-faq button:focus-visible { outline:3px solid var(--focus-ring, #c54b72); outline-offset:4px; } .ds-faq-icon { position:relative; flex:0 0 auto; width:28px; height:28px; border:1px solid #caaab4; border-radius:50%; } .ds-faq-icon::before, .ds-faq-icon::after { position:absolute; top:50%; left:50%; width:11px; height:1.5px; background:var(--burgundy, #701b35); content:''; transform:translate(-50%,-50%); transition:transform 180ms ease-out; } .ds-faq-icon::after { transform:translate(-50%,-50%) rotate(0); } .ds-faq p { max-width:65ch; margin:0; padding:0 2.5rem 1.5rem 0; color:var(--ink-soft, #62595d); line-height:1.75; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Private Consultation Folder / 私人理财会谈文件夹",
+    "overview": "The system should feel like a carefully prepared planning folder opened across a consultation table: calm, personal, evidence-led, and organized enough to make an unfamiliar financial conversation feel manageable. Paper and ivory fields create breathing room; burgundy behaves like a folder cover, annotation ink, and decisive action rather than a promise of financial spectacle.\n\nTrust begins with the real advisor. The supplied Geovenne portrait is documentary evidence, not decorative stock imagery: preserve her identity and natural features, and use only crop, responsive sizing, a white mat, a burgundy offset plane, and restrained depth to integrate the photograph. The broader world rejects trading dashboards, performance theatrics, generic finance icon grids, fabricated testimonials, and imagery that implies guaranteed returns.",
+    "keyCharacteristics": [
+      "Paper-led editorial calm with a single burgundy action voice.",
+      "Real portraiture before claims, especially in the mobile first viewport.",
+      "Serif-led Chinese headlines paired with highly readable sans-serif explanations.",
+      "Restrained 12–16px corners, thin rules, and soft offset shadows.",
+      "Mobile-first actions, explicit focus states, and quiet motion that never competes with meaning."
+    ],
+    "rules": [
+      { "name": "The Burgundy Annotation Rule", "body": "Burgundy carries decisions, annotations, and action; it does not become generic decoration sprayed across every surface.", "section": "colors" },
+      { "name": "The Editorial Pairing Rule", "body": "Use local Noto Serif SC for meaning-bearing headings and local Noto Sans SC for reading and action; do not substitute a fashionable display face that weakens Chinese legibility.", "section": "typography" },
+      { "name": "The Portrait-First Trust Rule", "body": "On mobile, the real person and the immediate contact path appear before extended persuasion; do not move the portrait below the sales copy.", "section": "layout" },
+      { "name": "The Soft Offset Rule", "body": "Shadows fall down and away like lifted paper; never use neon glows, hard black drop shadows, or elevation on every container.", "section": "elevation" },
+      { "name": "The Quiet Motion Rule", "body": "Motion confirms hover, expansion, navigation, and reading progress; it never performs spectacle or delays access to financial information.", "section": "components" }
+    ],
+    "dos": [
+      "Do use the supplied Geovenne portrait as documentary evidence; preserve facial identity and natural features, and limit presentation changes to crop, offset frame, and responsive sizing.",
+      "Do keep the portrait-first mobile sequence and the WhatsApp action visible before extended hero copy.",
+      "Do reuse the 1180px shell, responsive gutters, fluid section padding, and the 640px / 860px / 1180px layout transitions.",
+      "Do preserve visible keyboard focus, semantic heading order, 52px action targets, FAQ ARIA state, Escape-to-close navigation, and reduced-motion behavior.",
+      "Do use burgundy for action and decisive structure, while allowing paper, ivory, ink, and thin rules to carry most of the page."
+    ],
+    "donts": [
+      "Don't introduce trading dashboards, performance charts, generic finance icon grids, or visual claims of guaranteed growth.",
+      "Don't fabricate testimonials, awards, client counts, returns, or Public Mutual endorsement language.",
+      "Don't replace the local Noto pairing with remote fonts or reduce Chinese body readability for display effect.",
+      "Don't turn every section into a floating card, over-round controls into pills, or add hard shadows and neon glows.",
+      "Don't hide focus indicators, rely on color alone for FAQ state, or keep smooth motion when reduced motion is requested."
+    ]
+  }
+}
